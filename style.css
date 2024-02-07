@@ -48,7 +48,7 @@ section#redes-sociais img{
     width: 60px;
     transition: 0.5s, border 2s;
     border: 2px solid white;
-    box-shadow: 4px 4px 10px black;
+    box-shadow: 4px 4px 10px black; 
 }
 #position{
     position: relative;
